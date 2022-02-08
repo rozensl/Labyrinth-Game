@@ -1,7 +1,7 @@
 ** Labyrinth Game: 3GC3 Final Project (Fall 2021)**
 
 Authors:
-> Lin Rozenszajn, rozensl@mcmaster.ca
+> Lin Rozenszajn, rozensl@mcmaster.ca  
 > Anant Jain, jaina17@mcmaster.ca  
 > Rahil Shah, shahr39@mcmaster.ca  
 > Evan Desjardine, desjarde@mcmaster.ca  
