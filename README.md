@@ -1,4 +1,4 @@
-**3GC3 Final Project (Fall 2021)**
+** Labyrinth Game: 3GC3 Final Project (Fall 2021)**
 
 Authors:
 > Lin Rozenszajn, rozensl@mcmaster.ca
